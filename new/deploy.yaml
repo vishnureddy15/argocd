@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: vishnu155/vishnunew:v2
+        image: vishnu155/vishnunew:v6
         ports:
           - containerPort: 80
